@@ -5,24 +5,17 @@ import { WagmiProvider } from 'wagmi';
 import { RainbowKitProvider } from '@rainbow-me/rainbowkit';
 import { wagmiConfig } from '../config';
 import { MiniKitProvider } from '@coinbase/onchainkit/minikit';
+import { ReactNode } from 'react';
+import { baseSepolia } from 'wagmi/chains';
 
 const queryClient = new QueryClient();
 
-const options = {
-  appName: 'Adopt-a-Cow',
-  appLogoUrl: 'https://we-love-holsteins.com/wp-content/uploads/2022/01/We-love-holsteins-logo-2022.png',
-  walletConfig: {
-    enableExplorer: true,
-    enableSIWE: true,
-  },
-};
-
-export function Providers({ children }: { children: React.ReactNode }) {
+export function Providers({ children }: { children: ReactNode }) {
   return (
     <WagmiProvider config={wagmiConfig}>
       <QueryClientProvider client={queryClient}>
         <RainbowKitProvider>
-          <MiniKitProvider options={options}>{children}</MiniKitProvider>
+          <MiniKitProvider chain={baseSepolia}>{children}</MiniKitProvider>
         </RainbowKitProvider>
       </QueryClientProvider>
     </WagmiProvider>
