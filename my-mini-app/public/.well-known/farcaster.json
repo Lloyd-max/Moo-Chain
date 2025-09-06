@@ -19,5 +19,15 @@
     "ogImageUrl": "https://my-mini-app-ivory.vercel.app/splash.png",
     "ogTitle": "Adopt-a-Cow on the Blockchain",
     "ogDescription": "Adopt and raise your unique virtual cow on the blockchain."
+
+    
+  },
+  
+  "accountAssociation": {
+    "header": "eyJmaWQiOjEzMjY0MjgsInR5cGUiOiJjdXN0b2R5Iiwia2V5IjoiMHg0ODM0OTg4RDE0NzlCMTZEMjJFYzUwZTQ3RTU4NWU5RTU1Mzk4YkRFIn0",
+    "payload": "eyJkb21haW4iOiJtb28tY2hhaW4udmVyY2VsLmFwcCJ9",
+    "signature": "MHg2Y2E0ZjYxMTY2ODI5YjVhNzFhMjdjN2I0OGMzZTk0ZmMyM2MwZDdhMjFmMTM4OTAzMTcxZTVjMGJiNzUxYzZkNWQwNzRhZmU1YzU4Y2FiNTM5Mjk1YTIyNDc1OWMxOWZhM2FiMmE1ZDRjYWIwZjQyN2RhYzc1Y2Q1MDY0MThjNjFj"
   }
 }
+
+
