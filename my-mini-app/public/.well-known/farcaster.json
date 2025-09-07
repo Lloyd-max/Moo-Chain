@@ -2,10 +2,10 @@
   "frame": {
     "name": "Moo Chain",
     "version": "1",
-    "iconUrl": "https://moo-chain.vercel.public/icon.png",
+    "iconUrl": "https://moo-chain.vercel.app/icon.png",
     "homeUrl": "https://moo-chain.vercel.app",
-    "imageUrl": "https://moo-chain.vercel.public/image.png",
-    "splashImageUrl": "https://moo-chain.vercel.public/splash.png",
+    "imageUrl": "https://moo-chain.vercel.app/image.png",
+    "splashImageUrl": "https://moo-chain.vercel.app/splash.png",
     "splashBackgroundColor": "#ffffff",
     "webhookUrl": "https://moo-chain.vercel.app/api/webhook",
     "subtitle": "Adopt a cow on the blockchain!",
@@ -14,9 +14,9 @@
     "screenshotUrls": [
       "https://moo-chain.vercel.app/screenshot.png"
     ],
-    "heroImageUrl": "https://moo-chain.vercel.public/image.png",
+    "heroImageUrl": "https://moo-chain.vercel.app/image.png",
     "tagline": "MOOOO! Chain",
-    "ogImageUrl": "https://moo-chain.vercel.public/splash.png",
+    "ogImageUrl": "https://moo-chain.vercel.app/splash.png",
     "ogTitle": "Adopt-a-Cow on the Blockchain",
     "ogDescription": "Adopt and raise your unique virtual cow on the blockchain."
   },
