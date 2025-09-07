@@ -1,22 +1,22 @@
 {
   "frame": {
-    "name": "Adopt-a-Cow",
+    "name": "Moo Chain",
     "version": "1",
-    "iconUrl": "https://my-mini-app-ivory.vercel.app/icon.png",
-    "homeUrl": "https://my-mini-app-ivory.vercel.app",
-    "imageUrl": "https://my-mini-app-ivory.vercel.app/image.png",
-    "splashImageUrl": "https://my-mini-app-ivory.vercel.app/splash.png",
+    "iconUrl": "https://moo-chain.vercel.public/icon.png",
+    "homeUrl": "https://moo-chain.vercel.app",
+    "imageUrl": "https://moo-chain.vercel.public/image.png",
+    "splashImageUrl": "https://moo-chain.vercel.public/splash.png",
     "splashBackgroundColor": "#ffffff",
-    "webhookUrl": "https://my-mini-app-ivory.vercel.app/api/webhook",
+    "webhookUrl": "https://moo-chain.vercel.app/api/webhook",
     "subtitle": "Adopt a cow on the blockchain!",
     "description": "A fun, interactive app where you can adopt and care for your very own virtual cow on the blockchain.",
     "primaryCategory": "productivity",
     "screenshotUrls": [
-      "https://my-mini-app-ivory.vercel.app/screenshot.png"
+      "https://moo-chain.vercel.app/screenshot.png"
     ],
-    "heroImageUrl": "https://my-mini-app-ivory.vercel.app/hero.png",
-    "tagline": "Your Digital Bovine Companion!",
-    "ogImageUrl": "https://my-mini-app-ivory.vercel.app/splash.png",
+    "heroImageUrl": "https://moo-chain.vercel.public/image.png",
+    "tagline": "MOOOO! Chain",
+    "ogImageUrl": "https://moo-chain.vercel.public/splash.png",
     "ogTitle": "Adopt-a-Cow on the Blockchain",
     "ogDescription": "Adopt and raise your unique virtual cow on the blockchain."
   },
